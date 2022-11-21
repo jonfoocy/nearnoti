@@ -1,0 +1,19 @@
+{
+  "name": "nearnoti",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "near-api-js": "^1.1.0",
+    "node-cron": "^3.0.2",
+    "node-mailjet": "^5.1.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
